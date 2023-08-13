@@ -7,7 +7,7 @@ This is a web-based application developed for health-related based websites in I
 
 **Project Link** - https://jolly-rock-06bf59800.3.azurestaticapps.net
 
-**project demo video link** - 
+**project demo video link** - https://github.com/Deathshadow333/Sizzling-a-Beauty-Spa-Category-Bootstrap-Microsoft-FRT-Project/assets/80639739/687e9503-d770-4277-b478-d8d1d648e1f9
 
 
 ## Azure technologies used for Project
